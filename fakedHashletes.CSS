@@ -1,0 +1,43 @@
+
+            .innerCont1,.innerCont2,.innerCont3,.innerCont4,.innerCont5,.innerCont6{
+                padding:5px;
+            }
+            .squish{
+              object-fit:contain;
+              width:99.9%;
+            }
+            h4{
+                font-family: 'Roboto Slab', serif;
+                font-style: bold;
+                font-stretch: expanded;
+                font-weight:500;
+
+            }
+            .bigtxt{
+                font-size:75px;
+                font-weight:500;
+                font-style:bold;
+                font-family: 'Fjalla One', sans-serif;
+                float:left;
+
+            }
+            .paratext{
+
+                padding-bottom:10%;
+                display:block;
+            }
+            .bigtxt2{
+                margin-left:auto;
+                margin-right:auto;
+                text-align:center;
+                font-weight:800px;
+                font-size:60px;
+                padding-top:10%;
+                display:block;
+                font-family: 'Fjalla One', sans-serif;
+                align-content:center;
+            }
+            .input-group-prepend{
+                background-color:white;
+            }
+
